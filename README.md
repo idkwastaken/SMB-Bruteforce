@@ -14,7 +14,7 @@ SMB Bruteforce is a batch script that automates the process of brute-forcing SMB
 - A wordlist text file containing potential passwords.
 
 ## Usage
-1. Run the script by double-clicking the `SMB_Bruteforce.bat` file.
+1. Run the script by double-clicking the `main.bat` file.
 2. Enter the target host IP address or hostname when prompted.
 3. Enter the username for the SMB share.
 4. Select the wordlist file containing the passwords.
